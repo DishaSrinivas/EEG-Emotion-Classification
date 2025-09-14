@@ -10,6 +10,11 @@ Requirements-
 - seaborn
 - scikit-learn
 
+Data - Dataset can be downloaded from: https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions/data
+
+Citation- Bird, Jordan & Ekart, Aniko & Buckingham, Christopher & Resende Faria, Diego. (2019). Mental Emotional Sentiment Classification with an EEG-based Brain-machine Interface.
+
+
  Steps-
 - Loads EEG emotion dataset (`emotions.csv`)
 - Preprocesses and encodes emotion labels
